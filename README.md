@@ -5,7 +5,7 @@ An interactive educational website that explains the engineering design process 
 ---
 
 ## 🔗 Live Demo
-https://anderson-0408.github.io/robotics-design-process/
+[https://anderson-0408.github.io/robotics-design-process/](https://andx-anderson.github.io/Robotics-design-process/)
 
 ---
 
